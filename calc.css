@@ -1,0 +1,30 @@
+table {
+    border-collapse: collapse;
+    width: 200px;
+    margin: 0px auto;
+   font-size: ;
+}
+
+td {
+    border: 1px solid black;
+    
+    text-align: center;
+    /* padding: 10px; */
+    
+}
+.calc{
+    border:5px solid black;
+    margin-left: 43.5%;
+    margin-right: 32.5%;
+    margin-top: 200px;
+}
+input{
+    
+    width: 80px;
+    height: 60px;
+    
+}
+.c1{
+    width: 330px;
+    
+}
