@@ -14,10 +14,6 @@ This is a simple calculator web application built using HTML, CSS, and JavaScrip
 - **CSS**: For styling the calculator and making it visually appealing.
 - **JavaScript**: For implementing the calculator's functionality.
 
-## Demo
-
-![Calculator Demo](link-to-demo-screenshot.png) <!-- Replace with an actual screenshot of your calculator -->
-
 ## Installation
 
 1. Clone the repository:
